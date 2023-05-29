@@ -2,6 +2,7 @@
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Cyber-SW&style=flat-square&color=blue" alt=""/>
+  <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/MA41p1XHjzXZD25jiq/video" width="480"></iframe></div>
 </div>
 
 <!--
