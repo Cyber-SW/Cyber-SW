@@ -49,7 +49,7 @@
 
 <h2>🔥 My Stats:</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cyber-SW&theme=rising-sun&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cyber-SW&theme=rising-sun&card_width=560)](https://git.io/streak-stats)
 
 </br>
 
