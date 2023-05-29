@@ -50,8 +50,6 @@
 <h2>🔥 My Stats:</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cyber-SW&theme=rising-sun&hide_border=true&border_radius=0&card_width=600)](https://git.io/streak-stats)
-![Cyber-SW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cyber-SW&theme=slateorange&hide_border=true)
-![Cyber-SW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-SW&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 
 </br>
 
