@@ -7,6 +7,9 @@
     Hello traveler, welcome to my GitHub profile.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  
   </h1>
+  
+  </br>
+  
   <h3>
     I am Shawn, a Full-Stack Developer and Media Designer.
   </h3>
@@ -39,18 +42,20 @@
     <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="560px"/>
   </div>
 </div>
+
+</br>
 </br>
 
-### :fire: My Stats :
-#
+<h2>🔥 My Stats:</h2>
+</br>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cyber-SW&theme=rising-sun&hide_border=true&border_radius=0&card_width=600)](https://git.io/streak-stats)
 
 </br>
-</br>
-</br>
 
-### :hammer_and_wrench: Languages and Tools:
-#
+
+<h2>🛠 Languages and Tools:</h2>
+</br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5 Icon" width="50px"/>
@@ -76,3 +81,6 @@
   <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
   <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
 </div>
+
+</br>
+</br>
