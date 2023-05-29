@@ -39,12 +39,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5 Icon" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Icon" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Icon" width="50px"/>
-  </br>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB Icon" width="50px"/>
   <img src="./express.png" alt="Express Icon" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Icon" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Icon" width="50px"/>
-  </br>
+  
   <img src="./axios.svg" alt="Axios Icon" width="50px"/>
 </div>
 
