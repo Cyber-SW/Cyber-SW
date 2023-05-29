@@ -11,17 +11,15 @@
     I am Shawn, a Full-Stack Web Developer and Media Designer.
   </h3>  
   <div id="badges">
+    <a href="mailto:woltersh@oulook.de">
+      <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/shawn-wolter-93a263195/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.codewars.com/users/Cyber-SW">
       <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
     </a>
-    <a href="mailto:woltersh@oulook.de">
-      <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
-    </a>
-    
-    
   </div>
 </div>
 
