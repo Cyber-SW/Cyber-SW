@@ -10,6 +10,10 @@
   <h3>
     I am Shawn, a Full-Stack Developer and Media Designer.
   </h3>
+  
+  <h4>
+    Let´s connect...
+  </h4>
 
   <div id="badges">
     <a href="mailto:woltersh@oulook.de">
