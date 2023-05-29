@@ -46,6 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Icon" width="50px"/>
   
   <img src="./axios.png" alt="Axios Icon" width="50px"/>
+  <img src="./Creative_Cloud.png" alt="CC Icon" width="50px"/>
 </div>
 
 
