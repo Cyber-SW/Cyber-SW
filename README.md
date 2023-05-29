@@ -21,14 +21,18 @@
       <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
     </a>
   </div>
+  
+  </br>
+  
+  <div>
+    <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="500px"/>
+  </div>
 </div>
 
 #
 
 
-<div>
-  <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="800px"/>
-</div>
+
 
 
 
