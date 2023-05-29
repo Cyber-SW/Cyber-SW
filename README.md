@@ -1,7 +1,7 @@
-<h1 align="center">
+<div align="center">
   Hello traveler, welcome to my GitHub profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</h1>
+</div>
 <h2 align="center">
   I am Shawn and a Full-Stack Web Developer
 </h2>
