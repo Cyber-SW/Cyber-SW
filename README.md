@@ -22,6 +22,14 @@
       <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
     </a>
   </div>
+
+</br>
+  
+- 🔥 Ambitious to develop good looking and functional applications!
+- 💪🏽 Always on the grind to improve me, every day 1% better than the day before!
+- 😲 Curious about the latest design and tech trends!
+- 💡 Open-minded and constantly seeking new challenges and opportunities!
+
   
   </br>
   </br>
@@ -31,9 +39,11 @@
   </div>
 </div>
 
+
 #
 
-### :hammer_and_wrench: Languages and Tools :
+
+### :hammer_and_wrench: Languages and Tools:
 </br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5 Icon" width="50px"/>
@@ -46,6 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Icon" width="50px"/>
   
   <img src="./Creative_Cloud.png" alt="CC Icon" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Icon" width="50px"/>
   <img src="./vite-js-logo.svg" alt="Vite Icon" width="50px"/>
   <img src="./axios.png" alt="Axios Icon" width="100px"/>
   
