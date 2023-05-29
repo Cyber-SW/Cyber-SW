@@ -39,11 +39,10 @@
     <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="560px"/>
   </div>
 </div>
-
-
-#
+</br>
 
 ### :fire: My Stats :
+#
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cyber-SW&theme=rising-sun&hide_border=true&border_radius=0&card_width=600)](https://git.io/streak-stats)
 
 #
