@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Cyber-SW&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><img allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/MA41p1XHjzXZD25jiq/video" style="left:0;position:absolute;top:0" width="100%"></img></div></div>
+<iframe src="https://giphy.com/embed/L3bj6t3opdeNddYCyl" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-season-4-episode-2-rick-and-morty-L3bj6t3opdeNddYCyl">via GIPHY</a></p>
 
 <!--
 **Cyber-SW/Cyber-SW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
