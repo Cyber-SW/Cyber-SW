@@ -44,12 +44,11 @@
 ### :fire: My Stats :
 #
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cyber-SW&theme=rising-sun&hide_border=true&border_radius=0&card_width=600)](https://git.io/streak-stats)
-
-#
-
+</br>
 
 ### :hammer_and_wrench: Languages and Tools:
-</br>
+#
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5 Icon" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Icon" width="50px"/>
