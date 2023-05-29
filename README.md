@@ -47,7 +47,7 @@
 </br>
 </br>
 
-<h2>🔥 My Statistics:</h2>
+<h2>🔥 Statistics and Streaks:</h2>
 
 </br>
 
