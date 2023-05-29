@@ -66,7 +66,7 @@
   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Icon" width="50px"/>
   <img src="./Creative_Cloud.png" alt="CC Icon" width="50px"/>
-  <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
+  <img src="./handlebars.png" alt="loading skill" width="50px"/>
   <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
   <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
   <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
