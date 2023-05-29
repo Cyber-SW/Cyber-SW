@@ -11,6 +11,15 @@
     I am Shawn, a Full-Stack Developer and Media Designer.
   </h3>
   
+  </br>
+  
+  <p>
+    🔥 Ambitious to develop good looking and functional applications! </br>
+    💪🏽 Always on the grind to improve me, every day 1% better than the day before! </br>
+    😲 Curious about the latest design and tech trends! </br>
+    💡 Open-minded and constantly seeking new challenges and opportunities!
+  </p>
+  
   <h4>
     Let´s connect...
   </h4>
@@ -27,15 +36,6 @@
     </a>
   </div>
 
-</br>
-  
-<p>
-🔥 Ambitious to develop good looking and functional applications! </br>
-💪🏽 Always on the grind to improve me, every day 1% better than the day before! </br>
-😲 Curious about the latest design and tech trends! </br>
-💡 Open-minded and constantly seeking new challenges and opportunities!
-</p>
-  
   </br>
   
   <div>
