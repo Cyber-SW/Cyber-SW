@@ -49,8 +49,6 @@
 
 <h2>🔥 My Stats:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-SW&show_icons=true&theme=radical)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cyber-SW)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Cyber-SW&theme=rising-sun&card_width=560)](https://git.io/streak-stats)
 
 </br>
