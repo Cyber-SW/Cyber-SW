@@ -58,28 +58,26 @@
 </br>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5 Icon" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Icon" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Icon" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5 Icon" width="60px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Icon" width="60px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Icon" width="60px"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB Icon" width="50px"/>
-  <img src="./express.png" alt="Express Icon" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Icon" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Icon" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB Icon" width="60px"/>
+  <img src="./express.png" alt="Express Icon" width="60px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Icon" width="60px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Icon" width="60px"/>
   
-  <img src="./vite-js-logo.svg" alt="Vite Icon" width="50px"/>
-  <img src="./axios.png" alt="Axios Icon" width="100px"/>
+  <img src="./vite-js-logo.svg" alt="Vite Icon" width="60px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Icon" width="60px"/>
   </br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Icon" width="50px"/>
-  <img src="./Creative_Cloud.png" alt="CC Icon" width="50px"/>
-  <img src="./handlebars.png" alt="loading skill" width="50px"/>
-  <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
-  <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
-  <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
-  <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
-  <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
-  <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
-  <img src="./loading-gif.gif" alt="loading skill" width="50px"/>
+  <img src="./Creative_Cloud.png" alt="CC Icon" width="60px"/>
+  <img src="./axios.png" alt="Axios Icon" width="120px"/>
+  <img src="./handlebars.png" alt="loading skill" width="60px"/>
+  <img src="./loading-gif.gif" alt="loading skill" width="60px"/>
+  <img src="./loading-gif.gif" alt="loading skill" width="60px"/>
+  <img src="./loading-gif.gif" alt="loading skill" width="60px"/>
+  <img src="./loading-gif.gif" alt="loading skill" width="60px"/>
+  <img src="./loading-gif.gif" alt="loading skill" width="60px"/>
 </div>
 
 </br>
