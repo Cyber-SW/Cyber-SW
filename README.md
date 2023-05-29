@@ -1,22 +1,27 @@
 
 <div>
+  <div align="right">
+    <img src="https://komarev.com/ghpvc/?username=Cyber-SW&style=flat-square&color=blue" alt=""/>
+  </div> 
   <h1>
     Hello traveler, welcome to my GitHub profile.
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>  
   </h1>
   <h3>
     I am Shawn, a Full-Stack Web Developer and Media Designer.
-    <div align="right">
-      <img src="https://komarev.com/ghpvc/?username=Cyber-SW&style=flat-square&color=blue" alt=""/>
-    </div> 
-  </h3>
+  </h3>  
   <div id="badges">
-    <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+    <a href="https://www.linkedin.com/in/shawn-wolter-93a263195/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.codewars.com/users/Cyber-SW">
+      <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
+    </a>
+    <a href="mailto:woltersh@oulook.de">
+      <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
+    </a>
+    
+    
   </div>
 </div>
 
