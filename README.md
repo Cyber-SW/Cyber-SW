@@ -9,7 +9,8 @@
   </h1>
   <h3>
     I am Shawn, a Full-Stack Developer and Media Designer.
-  </h3>  
+  </h3>
+
   <div id="badges">
     <a href="mailto:woltersh@oulook.de">
       <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
@@ -23,6 +24,7 @@
   </div>
   
   </br>
+  </br>
   
   <div>
     <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="500px"/>
@@ -31,8 +33,17 @@
 
 #
 
-
-
+### :hammer_and_wrench: Languages and Tools :
+</br>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5 Icon" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Icon" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Icon" width="50px"/>
+  </br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB Icon" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express Icon" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Icon" width="50px"/>
+</div>
 
 
 
