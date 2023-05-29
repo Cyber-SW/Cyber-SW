@@ -1,6 +1,6 @@
 
-<div align="center">
-  <h1 border-bottom:none>
+<div>
+  <h1>
     Hello traveler, welcome to my GitHub profile
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   </h1>
@@ -9,7 +9,11 @@
   </h3>
 </div>
 
-<div align="center">
+
+---
+
+
+<div>
   <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="800px"/>
 </div>
 
