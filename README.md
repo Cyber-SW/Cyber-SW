@@ -25,20 +25,26 @@
 
 </br>
   
-- 🔥 Ambitious to develop good looking and functional applications!
-- 💪🏽 Always on the grind to improve me, every day 1% better than the day before!
-- 😲 Curious about the latest design and tech trends!
-- 💡 Open-minded and constantly seeking new challenges and opportunities!
-
+<p>
+🔥 Ambitious to develop good looking and functional applications! </br>
+💪🏽 Always on the grind to improve me, every day 1% better than the day before! </br>
+😲 Curious about the latest design and tech trends! </br>
+💡 Open-minded and constantly seeking new challenges and opportunities!
+</p>
   
-  </br>
   </br>
   
   <div>
-    <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="500px"/>
+  <h4>So there´s only one question left...</h4>
+    <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="560px"/>
   </div>
 </div>
 
+
+#
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cyber-SW&theme=rising-sun&hide_border=true&border_radius=0&card_width=600)](https://git.io/streak-stats)
 
 #
 
@@ -55,28 +61,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Icon" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Icon" width="50px"/>
   
-  <img src="./Creative_Cloud.png" alt="CC Icon" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Icon" width="50px"/>
   <img src="./vite-js-logo.svg" alt="Vite Icon" width="50px"/>
   <img src="./axios.png" alt="Axios Icon" width="100px"/>
+  </br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Icon" width="50px"/>
+  <img src="./Creative_Cloud.png" alt="CC Icon" width="50px"/>
   
 </div>
-
-
-
-
-
-
-<!--
-**Cyber-SW/Cyber-SW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
