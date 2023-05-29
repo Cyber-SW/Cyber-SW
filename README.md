@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="550px"/>
+  <img src="https://media3.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="800px"/>
 </div>
 
 <div id="badges">
