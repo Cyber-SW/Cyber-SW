@@ -4,9 +4,9 @@
     Hello traveler, welcome to my GitHub profile
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   </h1>
-  <div>
+  <h4>
     I am Shawn, a Full-Stack Web Developer and Media Designer
-  </div>
+  </h4>
 </div>
 
 <div align="center">
