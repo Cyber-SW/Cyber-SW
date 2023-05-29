@@ -47,7 +47,7 @@
   
   <img src="./Creative_Cloud.png" alt="CC Icon" width="50px"/>
   <img src="./vite-js-logo.svg" alt="Vite Icon" width="50px"/>
-  <img src="./axios.png" alt="Axios Icon" width="50px"/>
+  <img src="./axios.png" alt="Axios Icon" width="100px"/>
   
 </div>
 
