@@ -41,7 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Icon" width="50px"/>
   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB Icon" width="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express Icon" width="50px"/>
+  <img src="./express.png" alt="Express Icon" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Icon" width="50px"/>
 </div>
 
