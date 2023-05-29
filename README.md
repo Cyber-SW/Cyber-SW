@@ -66,12 +66,13 @@
   <img src="./express.png" alt="Express Icon" width="60px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Icon" width="60px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Icon" width="60px"/>
+  <img src="./axios.png" alt="Axios Icon" width="120px"/>
+  
+  </br>
   
   <img src="./vite-js-logo.svg" alt="Vite Icon" width="60px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Icon" width="60px"/>
-  </br>
   <img src="./Creative_Cloud.png" alt="CC Icon" width="60px"/>
-  <img src="./axios.png" alt="Axios Icon" width="120px"/>
   <img src="./handlebars.png" alt="loading skill" width="60px"/>
   <img src="./loading-gif.gif" alt="loading skill" width="60px"/>
   <img src="./loading-gif.gif" alt="loading skill" width="60px"/>
