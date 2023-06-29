@@ -26,7 +26,7 @@
 
   <div id="badges">
     <a href="mailto:woltersh@oulook.de">
-      <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
+      <img src="https://img.shields.io/badge/My Email-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/shawn-wolter-93a263195/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
