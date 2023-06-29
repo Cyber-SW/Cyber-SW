@@ -14,7 +14,7 @@
   </br>
   
   <p>
-    🔥 Ambitious to develop good looking and functional applications! </br>
+    🔥 Ambitious to develop good-looking and functional applications! </br>
     💪🏽 Always on the grind to improve me, every day 1% better than the day before! </br>
     😲 Curious about the latest design and tech trends! </br>
     💡 Open-minded and constantly seeking new challenges and opportunities!
