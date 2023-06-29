@@ -28,14 +28,14 @@
     <a href="mailto:woltersh@oulook.de">
       <img src="https://img.shields.io/badge/My Email-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook Badge"/>
     </a>
+    <a href="https://cyber-sw.site/" target="blank">
+      <img src="https://img.shields.io/badge/My Portfolio-f07900?style=for-the-badge&logo=GitBook&logoColor=ffffff"/>
+    </a>
     <a href="https://www.linkedin.com/in/shawn-wolter-93a263195/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.codewars.com/users/Cyber-SW" target="blank">
       <img src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
-    </a>
-    <a href="https://cyber-sw.site/" target="blank">
-      <img src="https://img.shields.io/badge/My Portfolio-f07900?style=for-the-badge&logo=GitBook&logoColor=ffffff"/>
     </a>
   </div>
 
